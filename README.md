@@ -37,8 +37,8 @@ Then run:
 
 ```bash
 pip install requests pandas
+```
 
-'''
 🔗 Project Repo: [github.com/team-name/chatbot-project](https://github.com/team-name/chatbot-project)
 
 ## 🔁 Major Pull Requests
