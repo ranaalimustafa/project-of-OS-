@@ -1,6 +1,10 @@
+import os
+from dotenv import load_dotenv
 import requests
+import requests
+load_dotenv()
 
-API_KEY = "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"
+API_KEY = os.getenv("API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL_NAME = "deepseek/deepseek-r1:free"
 
