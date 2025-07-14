@@ -39,10 +39,10 @@ Then run:
 pip install requests pandas
 ```
 
-🔗 Project Repo: [github.com/team-name/chatbot-project](https://github.com/team-name/chatbot-project)
+🔗 Project Repo: [OS Project](https://github.com/ranaalimustafa/project-of-OS-)
 
 ## 🔁 Major Pull Requests
-- [PR #3 – Backend by Hassan](https://github.com/ranaalimustafa/project-of-OS-/pull/1)
-- [PR #4 – Frontend by Tayyab](https://github.com/your-repo/pull/4)
-- [PR #5 – Database by Ali](https://github.com/your-repo/pull/5)
+- [PR #1 – Backend by Hassan](https://github.com/ranaalimustafa/project-of-OS-/pull/1)
+- [PR #2 – Frontend by Tayyab](https://github.com/your-repo/pull/4)
+- [PR #3 – Database by Ali](https://github.com/your-repo/pull/5)
 
